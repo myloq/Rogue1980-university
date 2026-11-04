@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Rogue1980.Presentation\Rogue1980.Presentation.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="8.1.0" />
+  </ItemGroup>
+
 </Project>

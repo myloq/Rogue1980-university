@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Rogue1980.App/Rogue1980.App.csproj" />
-    <Project Path="src/Rogue1980.DataLayer/Rogue1980.DataLayer.csproj" />
-    <Project Path="src/Rogue1980.Domain/Rogue1980.Domain.csproj" />
-    <Project Path="src/Rogue1980.Presentation/Rogue1980.Presentation.csproj" />
-  </Folder>
-</Solution>

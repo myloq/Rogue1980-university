@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Rogue1980.Domain\Rogue1980.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="8.1.0" />
+  </ItemGroup>
+
 </Project>
